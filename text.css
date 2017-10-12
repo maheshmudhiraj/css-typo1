@@ -1,0 +1,31 @@
+p
+{
+	letter-spacing:5px;
+	text-align:center;
+	word-spacing:20px;
+	white-space:nowrap;
+	text-decoration:line-through;
+}
+h6
+{
+	line-height:20px;
+	text-align:right;
+}
+h1
+{
+	text-decoration:underline;
+		text-transform:uppercase; 
+}
+h5
+{
+	text-indent:30px;
+	text-transform:capitalize;
+}
+h4
+{
+	direction:rtl;
+}
+span
+{
+		vertical-align:20px;
+}
